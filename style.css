@@ -1,0 +1,201 @@
+.section__title {
+  font-weight: 700;
+  color: #302d2d;
+}
+.section__title span {
+  color: #2378c9;
+}
+.section__text,
+.type__treatment {
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+  color: #6b6868;
+}
+.card__title {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #000;
+}
+/* Navbar */
+.nav__link {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #302d2db7;
+}
+.nav__link:hover,
+.nav__active {
+  color: #111010;
+}
+.nav__btn {
+  background-color: #f86d6d;
+  padding: 4px 32px;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+}
+.btn__btn {
+  padding: 4px 32px;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  background-color: #5eb8f0;
+}
+/* Main */
+.main {
+  padding-top: 120px;
+  background-color: #0e6eaa;
+}
+.home__subtitle {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #c5c1fe;
+}
+.home__title {
+  font-weight: 700;
+  color: #fff;
+}
+.home__text {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #fff;
+}
+.home__img {
+  width: 300px;
+  height: 540px;
+}
+/* Dental Toch */
+.dental__toch {
+  width: 290px;
+}
+.dental__toch-card {
+  color: #302d2d;
+}
+.dental__card-text {
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #302d2d;
+}
+.card__target {
+  display: inline-block;
+  margin-right: 8px;
+  width: 15px;
+  height: 15px;
+  border-radius: 32px;
+  background: #2378c9;
+}
+/* Support */
+.support {
+  background-color: #dfeefc;
+}
+.card__img {
+  width: 100px;
+  height: 100px;
+}
+/* Our Specialists */
+
+.card__body {
+  background-color: #2378c9;
+}
+.our__card-title {
+  color: #fff;
+}
+.our__position {
+  color: #fff;
+}
+/* Support  */
+.support {
+  background-color: #dfeefc rgba(167, 210, 251, 0.92);
+}
+.support__card {
+  background-color: #5eb8f0;
+}
+.support__title {
+  color: #fff;
+}
+.support__img {
+  text-align: center;
+  margin: 0 auto;
+  width: 290px;
+}
+.support__card-wrapper {
+  display: flex;
+  align-items: center;
+}
+.support__tooth-price {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #fff;
+}
+.type__treatment {
+  color: rgba(255, 255, 255, 0.507);
+}
+.tooth__price {
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+}
+/* News */
+.news__data {
+  display: flex;
+  justify-content: space-between;
+}
+.data,
+.comment {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+  color: #a9a9a9;
+}
+.news__card {
+  background-color: #f6f6f6;
+}
+.news__card-text {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #56565e;
+}
+.news__card-btn,
+.contact__card-btn {
+  border-radius: 32px;
+  color: #5eb8f0;
+}
+/* Our Client */
+
+/* Contact */
+.contact {
+  background: rgba(167, 210, 251, 0.92);
+}
+.contact__title {
+  line-height: 32px;
+  font-weight: 400;
+  color: #6b6868;
+}
+.contact__img,
+.contact__card {
+  height: 540px;
+}
+.contact__img {
+  width: 290px;
+}
+.text {
+  font-size: 14;
+  line-height: 18px;
+  font-weight: 400;
+  color: #747474;
+}
+/* Footer */
+.footer {
+  background-color: #10406f;
+}
+.footer__nav-menu,
+.footer__nav-item,
+.footer__text {
+  color: #fff;
+}
